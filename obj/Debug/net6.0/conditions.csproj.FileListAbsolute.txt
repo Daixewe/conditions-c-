@@ -1,0 +1,15 @@
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\bin\Debug\net6.0\conditions.exe
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\bin\Debug\net6.0\conditions.deps.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\bin\Debug\net6.0\conditions.runtimeconfig.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\bin\Debug\net6.0\conditions.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\bin\Debug\net6.0\conditions.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.csproj.AssemblyReference.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.AssemblyInfoInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.AssemblyInfo.cs
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\refint\conditions.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\conditions.genruntimeconfig.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Conditions\conditions\obj\Debug\net6.0\ref\conditions.dll
